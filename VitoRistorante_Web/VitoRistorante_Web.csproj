@@ -94,15 +94,10 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="contacto.html" />
-    <Content Include="index.html" />
-    <Content Include="nosotros.html" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="reservas.html" />
-    <Content Include="SheetsQuery.html" />
     <Content Include="styles\Lobster_1.3-webfont.eot" />
     <Content Include="styles\Lobster_1.3-webfont.ttf" />
     <Content Include="styles\Lobster_1.3-webfont.woff" />
