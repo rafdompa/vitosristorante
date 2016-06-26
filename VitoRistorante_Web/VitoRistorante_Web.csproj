@@ -94,10 +94,35 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="images\home\9.png" />
+    <Content Include="images\home\entertainment1.jpg" />
+    <Content Include="images\home\entertainment2.jpg" />
+    <Content Include="images\home\footer-bg.jpg" />
+    <Content Include="images\home\hero-next.png" />
+    <Content Include="images\home\hero-prev.png" />
+    <Content Include="images\home\hero1.jpg" />
+    <Content Include="images\home\icon-facebook.png" />
+    <Content Include="images\home\icon-instagram.png" />
+    <Content Include="images\home\icon-pinterest.png" />
+    <Content Include="images\home\icon-twitter.png" />
+    <Content Include="images\home\italian-restaurant-old-town-2000x925.jpg" />
+    <Content Include="images\home\lg-main-nav-bg-ds.png" />
+    <Content Include="images\home\menu - thumb.jpg" />
+    <Content Include="images\home\nosotros-thumb.jpg" />
+    <Content Include="images\home\Old-Room-Hospitality-Interior-Design-of-Cafe-Vico-Restaurant-Fort-Lauderdale.jpg" />
+    <Content Include="images\home\pizza-bella-inside-2000x925.jpg" />
+    <Content Include="images\home\reservas-thumb.jpg" />
+    <Content Include="images\home\sub-nav-red-bg.png" />
+    <Content Include="images\home\tripadvisor %281%29.png" />
+    <Content Include="images\home\tripadvisor.png" />
+    <Content Include="images\home\Vitos Logo.png" />
+    <Content Include="Index.html" />
+    <Content Include="nosotros.html" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="reservas.html" />
     <Content Include="styles\Lobster_1.3-webfont.eot" />
     <Content Include="styles\Lobster_1.3-webfont.ttf" />
     <Content Include="styles\Lobster_1.3-webfont.woff" />
